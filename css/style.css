@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(254, 216, 222);
+}
+h1 {
+    background-color: hotpink;
+}
+#p1{
+    background-color: rgb(209, 139, 203);
+}
+h2{
+    background-color: deeppink;
+}
+#p2{
+    background-color: rgb(172, 26, 94);
+}
+ol{
+    background-color: rgb(241, 128, 204);
+}
+#li1{
+    color: bisque;
+}
+#li2{
+    color:rgb(255, 200, 133)
+}
+#li3{
+    color: rgb(255, 169, 63);
+}
+#li4{
+    color: rgb(205, 237, 100);
+}
+#li5{
+    color: rgb(76, 252, 182);
+}
